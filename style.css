@@ -1,0 +1,55 @@
+.alok-bg-info {
+    background-color: rgb(82, 214, 228);
+}
+
+.btn-buy-now {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-top: 16px;
+    background-image: linear-gradient(to bottom, #73e8e6 0%, #e297ef 100%);
+    color: #da88b8;
+    border: none;
+    border-radius: 6px;
+    padding: 14px 20px;
+}
+
+.price {
+    color: #071ff6;
+    margin-top: 20px;
+}
+
+.watch {
+    background-image: linear-gradient(152.07deg, #c5e972 1.47%, #65e972 97.17%);
+}
+
+.bag {
+    background-image: linear-gradient(180deg, #3f3fcd -0.01%, #5a5aec 99.99%);
+}
+
+.shoes {
+    background-image: linear-gradient(170.41deg, #d847d1 -10.89%, #d867c7 92.77%);
+}
+
+.all-categories {
+    background-color: #6acaee;
+    padding: 10px 0 20px;
+}
+
+#shoes {
+    margin-top: 30px;
+}
+
+#backpack {
+    margin-top: 60px !important;
+    margin-bottom: 45px;
+}
+
+small {
+    font-size: 80%;
+    font-weight: 400;
+}
